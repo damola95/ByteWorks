@@ -1,0 +1,28 @@
+.containerreg{
+    margin-top: auto;
+    justify-content: center;
+    align-items: center;  
+    display: table;
+}
+
+.input-block-level{
+    width: 250%;
+}
+
+.input-block{
+    width: 100%;
+}
+
+.login{
+color:royalblue
+}
+
+.tagline-message{
+    margin-right: 025%;
+    margin-top: 05%;
+}
+
+.food_option.is-active{
+    background: black;
+    background-position: 90%;
+}
